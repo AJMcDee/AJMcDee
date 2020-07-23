@@ -1,10 +1,16 @@
 ## Hi, I'm Anna 👋
+
+<a href="https://www.linkedin.com/in/annajmcdougall/"><img align="right" src="https://i.imgur.com/Gn9jBin.png" width="300px"></a>
+
+ 
+I am a super passionate, high-energy, and ambitious developer who is open about her mistakes and is keen to learn from them. Spot something you think could be better? Great! Please get in touch.
+
 <a href="http://www.twitter.com/AnnaJMcDougall"><img align="right" src="https://live.staticflickr.com/8426/7749081714_9e35bdcdbd_w.jpg" height="50px" width="50px">
 <a href="https://www.linkedin.com/in/annajmcdougall/"><img align="right" src="https://live.staticflickr.com/8296/7749079740_113c14cc98_w.jpg" height="50px" width="50px"></a>
-I am a super passionate, high-energy, and ambitious developer who is open about her mistakes and is keen to learn from them. Spot something you think could be better? Great! Please let me know:
-
-
 I've been making webpages since I was 8 years old, but I took a huge detour in the middle and so am more often recognised as being "that dev who used to be an opera singer".
+
+
+
 
 
 - 🌱 I’m learning full-stack web development with the Digital Careers Institute in Leipzig, Germany until June 2021.
