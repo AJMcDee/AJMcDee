@@ -14,5 +14,5 @@ I've been making webpages since I was 8 years old, but I took a huge detour in t
 - 💪 My course is one year full-time and is German government accredited
 - 💻 My stack is HTML, CSS, JavaScript, and React.
 - 🤓 I’m still working on MongoDB, Express, and Node.JS
-- 📝 5-min read: [What has being an opera singer taught me about software engineering?](https://www.linkedin.com/pulse/what-has-being-opera-singer-taught-me-software-anna-j-mcdougall/)
+- 📝 Check out my blog full of coding tutorials, motivational posts, and career advice: [blog.annamcdougall.com](http://blog.annamcdougall.com)
 
