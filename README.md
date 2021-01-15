@@ -13,4 +13,4 @@ I've been making webpages since I was 8 years old, but I took a huge detour in t
 - 🌱 I’m learning full-stack web development with the Digital Careers Institute in Leipzig, Germany until June 2021.
 - 💪 My course is one year full-time and is German government accredited
 - 💻 My stack is HTML, CSS, JavaScript, React, MongoDB, Express, and Node.JS.
-- 📝 Check out my blog full of coding tutorials, motivational posts, and career advice: [blog.annamcdougall.com](http://blog.annamcdougall.com)
+- 📝 Check out [my YouTube Channel](https://www.youtube.com/channel/UCjJzKrbr3WGn1xE0LAQ91yA) full of JavaScript tutorials, motivational videos, and career advice.
