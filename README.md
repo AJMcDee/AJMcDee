@@ -8,7 +8,7 @@ I am a super passionate, high-energy, and friendly developer who is open about h
 
 
 <a href="https://twitter.com/AnnaJMcDougall/status/1350057528361705473"><img align="right" src="https://i.imgur.com/Gn9jBin.png" width="260px" style="border: 3px solid black;"></a>
-- 🌱 I’m at the tail end of my Certificate in Web- and Software Development from Digital Career Institute in Germany, where I also tutor the other students.
-- 💪 My course is one year full-time and is German government accredited.
-- 💻 My stack is HTML, CSS, JavaScript, React, MongoDB, Express, and Node.JS.
+- 🌱 I just completed my Certificate of Web- and Software Development.
+- 💪 I begin as a Junior Software Engineer at Novatec Consulting in March 2021.
+- 💻 My stack is HTML, CSS, JavaScript, React, MongoDB, Express, and Node.JS. I am currently learning Java.
 - 📝 Check out [my YouTube Channel](https://www.youtube.com/channel/UCjJzKrbr3WGn1xE0LAQ91yA) full of JavaScript tutorials, motivational videos, and career advice.
